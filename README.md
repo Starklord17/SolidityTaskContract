@@ -1,5 +1,6 @@
-# Solidity Smart Contract
+# Simple Smart Contract with solidity.
 
-## Simple CRUD with solidity
+## Creating a smart contract using Remix IDE
 
-Creación de un smart contract usando Remix IDE
+## Functions:
+Create, Find, Read, Update and Delete.
