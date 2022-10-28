@@ -1,4 +1,4 @@
-# Simple Smart Contract with solidity.
+# Simple Smart Contract with solidity
 
 ## Creating a smart contract using Remix IDE
 
